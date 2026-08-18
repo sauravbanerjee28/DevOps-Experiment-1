@@ -1,2 +1,2 @@
-﻿DevOps Experiment 1 - Git and GitHub Operations
+This line is from conflict-demo branch.
 This change was created in feature1 branch.
